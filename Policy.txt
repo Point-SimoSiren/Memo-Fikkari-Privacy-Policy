@@ -1,0 +1,8 @@
+
+Memo Fikkari App does not use or collect any kind of data from users.
+It does not have capability to take pictures or record voice or video.
+Locally installed app does not have any connection outside.
+
+Memo Fikkari ei kerää yhtään mitään tietoja eikä ota kuvaa, ääntä tai videota.
+
+-Memo Fikkari Delevoper team 2024-
